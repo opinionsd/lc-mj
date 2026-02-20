@@ -1,0 +1,28 @@
+{
+  "eventId": "evt_01HQ7R9X8Z5A2B3C4D5E6F7G8H",
+  "timestamp": "2026-02-20T10:00:00Z",
+  "orderId": "EXT-99812",
+  "status": "paid",
+  "customer": {
+    "firstName": "Jan",
+    "lastName": "Kowalski",
+    "email": "jan.kowalski@example.com",
+    "companyName": null
+  },
+  "items": [
+    {
+      "sku": "BANNER-PVC-100x200",
+      "name": "Baner reklamowy PVC",
+      "quantity": 2,
+      "pricePerUnit": 150.00
+    },
+    {
+      "sku": "ROLLUP-85x200",
+      "name": "Rollup Standard",
+      "quantity": 1,
+      "pricePerUnit": 220.00
+    }
+  ],
+  "totalAmount": 520.00,
+  "currency": "PLN"
+}

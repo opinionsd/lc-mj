@@ -1,0 +1,10 @@
+{
+  "externalReference": "EXT-99812",
+  "clientIdentifier": "jan.kowalski@example.com",
+  "isB2B": false, 
+  "orderItems": [
+    { "productCode": "BANNER-PVC-100x200", "qty": 2 },
+    { "productCode": "ROLLUP-85x200", "qty": 1 }
+  ],
+  "totalValue": 520.00
+}
